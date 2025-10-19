@@ -1,0 +1,48 @@
+/* ALL VARIABLES */
+
+:root {
+    --sky-blue: #288be6;
+    --onyx: #3c3c3c;
+
+    --electric-violet: #8428e6;
+    --persian-blue: #282be6;
+
+    --white: #FFFFFF;
+    --puma-black: #131516;
+    --off-white: #F8F8F8;
+    --light-grey: #EEEEEE;
+    --light-blue: #288be633;
+
+    --transparent-sky-blue: #288be6EE;
+    --transparent: #288ae600;
+    --transparent-onyx: #3c3c3c88;
+    --transparent-white: #FFFFFF44;
+    --transparent-light-grey: #EEEEEE44;
+
+    --primary-color: var(--sky-blue);
+    --on-primary-color: var(--white);
+
+    --secondary-color-1: var(--electric-violet);
+    --secondary-color-2: var(--persian-blue);
+    --on-secondary-color: var(--white);
+
+    --body-bg-color: var(--off-white);
+    --body-surface-color: var(--off-white);
+
+    --on-body-bg-color: var(--onyx);
+    --on-body-surface-color: var(--onyx);
+    --on-body-accent-bg-color: var(--light-grey);
+    --glow-on-body-color: var(--transparent-onyx);
+
+    --nav-bg-color: var(--puma-black);
+    --nav-surface-color: var(--puma-black);
+
+    --on-nav-bg-color: var(--white);
+    --on-nav-surface-color: var(--white);
+    --glow-on-nav-color: var(--transparent-light-grey);
+
+    --display-font: 'Jost';
+    --main-font: 'Nunito';
+
+    --header-height: 80px;
+}
